@@ -72,5 +72,8 @@ Transaction is executed via Sei smart contracts.
 Track trade history and risk assessment via the dashboard.
 Get real-time AI alerts for potential profit opportunities.
 
+![image](https://github.com/user-attachments/assets/6aacbe70-9db5-4df6-9879-cf2cc1ab616e)
+![image](https://github.com/user-attachments/assets/2e052ad6-149c-4de6-876e-5b532dd55505)
+
 
 
