@@ -53,18 +53,22 @@ It allows users to **connect their MetaMask wallet**, analyze trading opportunit
 ## 📌 **Usage Guide**
 
 1️⃣ **Connect Wallet**
+
 Click "Connect Wallet" to authenticate using MetaMask.
 Ensure your wallet is connected to the Sei Network.
 
-2️⃣** Analyze AI Trading Insights**
+2️⃣ **Analyze AI Trading Insights**
+
 AI will fetch market data, apply GOAT SDK plug-ins, and suggest strategies.
 Options include manual trading, AI-recommended trades, or full automation.
 
 3️⃣ **Execute Trade**
+
 Approve the trade manually or let AI handle it automatically.
 Transaction is executed via Sei smart contracts.
 
 4️⃣ **Monitor & Optimize**
+
 Track trade history and risk assessment via the dashboard.
 Get real-time AI alerts for potential profit opportunities.
 
