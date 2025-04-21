@@ -71,7 +71,7 @@ Options include manual trading, AI-recommended trades, or full automation.
 3️⃣ **Execute Trade**
 
 Approve the trade manually or let AI handle it automatically.
-Transaction is executed via Sei smart contracts.
+Transaction is executed via Sei smart contracts!
 
 4️⃣ **Monitor & Optimize**
 
