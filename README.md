@@ -1,4 +1,4 @@
-# 🚀 AI TradeFlow - AI-Powered Crypto Trading on Sei Network
+# SmartTradeAI- AI-Powered Crypto Trading on Sei Network
 
 [![Sei Network](https://img.shields.io/badge/Sei%20Network-DeFi-blue.svg)](https://www.sei.io/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-orange.svg)](https://metamask.io/)
